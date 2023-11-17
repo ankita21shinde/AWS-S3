@@ -1,0 +1,17 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAVO54HS2GS5DOEUNX
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+      
+application:
+  bucket:
+    name: awsdirstbucket
+    
+
+server:
+  port: 9090
